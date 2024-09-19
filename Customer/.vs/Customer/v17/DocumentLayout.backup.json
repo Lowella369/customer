@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{541FADCD-B3AD-496C-831F-F25F03227972}|Customers.API.Test\\Customers.API.Test.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customers.api.test\\customerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{541FADCD-B3AD-496C-831F-F25F03227972}|Customers.API.Test\\Customers.API.Test.csproj|solutionrelative:customers.api.test\\customerrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E1FDB7-5320-4245-ACAA-DE366DCBE1F5}|Customer.API.Test\\Customer.API.Test.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api.test\\customerrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19E1FDB7-5320-4245-ACAA-DE366DCBE1F5}|Customer.API.Test\\Customer.API.Test.csproj|solutionrelative:customer.api.test\\customerrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19E1FDB7-5320-4245-ACAA-DE366DCBE1F5}|Customer.API.Test\\Customer.API.Test-orig.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api.test\\customer.api.test-orig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{19E1FDB7-5320-4245-ACAA-DE366DCBE1F5}|Customer.API.Test\\Customer.API.Test-orig.csproj|solutionrelative:customer.api.test\\customer.api.test-orig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\models\\domain\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\models\\domain\\customerdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\data\\customerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\repositories\\sqlcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\repositories\\sqlcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\models\\dto\\addcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\models\\dto\\addcustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\models\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\models\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\repositories\\icustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\models\\dto\\updatecustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\models\\dto\\updatecustomerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\customer.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\customer.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|c:\\users\\lowhu\\onedrive\\documents\\exercises\\web-api\\customer\\customer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11A53D97-613D-437F-AE47-1F76E244529C}|Customer.API\\Customer.API.csproj|solutionrelative:customer.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customers.API.Test\\CustomerRepositoryTest.cs",
+              "RelativeDocumentMoniker": "Customers.API.Test\\CustomerRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customers.API.Test\\CustomerRepositoryTest.cs",
+              "RelativeToolTip": "Customers.API.Test\\CustomerRepositoryTest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAMwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T00:34:12.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerDB.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\Domain\\CustomerDB.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Models\\Domain\\CustomerDB.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\Domain\\CustomerDB.cs",
+              "RelativeToolTip": "Customer.API\\Models\\Domain\\CustomerDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:25:19.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.API.Test-orig.csproj",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API.Test\\Customer.API.Test-orig.csproj",
+              "RelativeDocumentMoniker": "Customer.API.Test\\Customer.API.Test-orig.csproj",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API.Test\\Customer.API.Test-orig.csproj",
+              "RelativeToolTip": "Customer.API.Test\\Customer.API.Test-orig.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-18T18:00:42.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API.Test\\CustomerRepositoryTests.cs",
+              "RelativeDocumentMoniker": "Customer.API.Test\\CustomerRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API.Test\\CustomerRepositoryTests.cs",
+              "RelativeToolTip": "Customer.API.Test\\CustomerRepositoryTests.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAMwFwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T18:01:04.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Repositories\\SQLCustomerRepository.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Repositories\\SQLCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Repositories\\SQLCustomerRepository.cs",
+              "RelativeToolTip": "Customer.API\\Repositories\\SQLCustomerRepository.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:51:20.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "Customer.API\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:57:43.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Data\\CustomerDBContext.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Data\\CustomerDBContext.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Data\\CustomerDBContext.cs",
+              "RelativeToolTip": "Customer.API\\Data\\CustomerDBContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T17:58:31.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddCustomerRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "RelativeToolTip": "Customer.API\\Models\\DTO\\AddCustomerRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:51:23.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Models\\DTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "Customer.API\\Models\\DTO\\CustomerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:37:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "Customer.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "Customer.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T16:08:45.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.API.csproj",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Customer.API.csproj",
+              "RelativeDocumentMoniker": "Customer.API\\Customer.API.csproj",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Customer.API.csproj",
+              "RelativeToolTip": "Customer.API\\Customer.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T18:53:55.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Repositories\\ICustomerRepository.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Repositories\\ICustomerRepository.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Repositories\\ICustomerRepository.cs",
+              "RelativeToolTip": "Customer.API\\Repositories\\ICustomerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:28:28.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateCustomerRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "RelativeToolTip": "Customer.API\\Models\\DTO\\UpdateCustomerRequestDto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T21:47:03.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Program.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Program.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Program.cs",
+              "RelativeToolTip": "Customer.API\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:56:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Customer.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Customer.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T15:03:45.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Customer.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\appsettings.json",
+              "RelativeToolTip": "Customer.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-17T18:06:02.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Customer.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Customer.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAABRwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T19:08:03.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Customer.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\appsettings.Development.json",
+              "RelativeToolTip": "Customer.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-13T19:07:51.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.API.http",
+              "DocumentMoniker": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Customer.API.http",
+              "RelativeDocumentMoniker": "Customer.API\\Customer.API.http",
+              "ToolTip": "C:\\Users\\lowhu\\OneDrive\\Documents\\exercises\\web-api\\Customer\\Customer.API\\Customer.API.http",
+              "RelativeToolTip": "Customer.API\\Customer.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-13T19:07:54.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
